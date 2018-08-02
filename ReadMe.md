@@ -21,3 +21,7 @@ Players were asked to find the parts of the image that were colored incorrectly.
 ### Contest 6
 
 Players were presented with a gray-scale image of the statue of liberty. The statue portion was semi-transparent so it was placed on an HTML5 canvas with a color picker that would adjust the background color of the canvas to show through the statue. After submission the HEX for the color picked would be posted back to the server and a collection of all the colors picked by others would be presented which would show what others had picked.
+
+### Contest 7
+
+This contest asked players to identify their hometown by selecting their Country and State/Region, typing in their hometown, and a color that they felt represented their hometown. Mostly a simple form outside of using a library containing automated drop downs for country + state/region combinations.
