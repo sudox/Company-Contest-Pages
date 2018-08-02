@@ -17,3 +17,7 @@ Utilized the ImageColorPicker plugin to produce a spectrum of colors and asked t
 ### Contest 5
 
 Players were asked to find the parts of the image that were colored incorrectly. An HTML5 canvas was overlayed on the image such that when they clicked the image a circle would appear where they clicked. On click the coordiantes were stored and pulled on form post. Server side the coordinates were checked against a range of acceptabled coordinates. An HTML file was created after the contest to view all the results.
+
+### Contest 6
+
+Players were presented with a gray-scale image of the statue of liberty. The statue portion was semi-transparent so it was placed on an HTML5 canvas with a color picker that would adjust the background color of the canvas to show through the statue. After submission the HEX for the color picked would be posted back to the server and a collection of all the colors picked by others would be presented which would show what others had picked.
