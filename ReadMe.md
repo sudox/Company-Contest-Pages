@@ -25,3 +25,7 @@ Players were presented with a gray-scale image of the statue of liberty. The sta
 ### Contest 7
 
 This contest asked players to identify their hometown by selecting their Country and State/Region, typing in their hometown, and a color that they felt represented their hometown. Mostly a simple form outside of using a library containing automated drop downs for country + state/region combinations.
+
+### Contest 8
+
+Players were asked to come up with a caption for an image. On submit the server-side code would create an image that fit the caption inside a speech bubble then would output an HTML page and redirect them to the page to display all the captions in an image slider.
